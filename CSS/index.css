@@ -1,0 +1,15 @@
+div#home{
+    background-color: #ffffff;
+}
+div#home a{
+    color: #00aaff;
+}
+div#home a:hover{
+    color: #00ffff;
+}
+
+section div {
+    display: inline-block;
+    margin: 2.5%;
+    padding: 1.25%;
+}

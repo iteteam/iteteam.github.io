@@ -1,0 +1,26 @@
+div#courses{
+    background-color: #ffffff;
+}
+div#courses a{
+    color: #00aaff;
+}
+div#courses a:hover{
+    color: #00ffff;
+}
+section#courses{
+    text-align: center;
+}
+section#courses a{
+    margin: 5%;
+    padding: 2.5%;
+    display: inline-block;
+}
+section div{
+    display: inline-block;
+    margin: 5%;
+    padding: 5px;
+}
+img#analysis{
+    height: 350px;
+    width: 350px;
+}

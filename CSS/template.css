@@ -1,0 +1,16 @@
+div#about_course{
+    text-align: center;
+    margin: 5%;
+    padding: 2.5%;
+}
+details{
+    margin: 5%;
+    color: rgb(66, 64, 64);
+}
+li{
+    margin: 5px;
+}
+img{
+    width: 700px;
+    height: 350px;
+}
