@@ -1,0 +1,15 @@
+img#c1{
+    display: none;
+}
+img#c2{
+    display: inline-block;
+}
+section div{
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+}
+img#ana{
+    height: 326px;
+    width: 326px;
+}

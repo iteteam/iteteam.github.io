@@ -1,0 +1,13 @@
+img#a1{
+    display: none;
+}
+img#a2{
+    display: inline-block;
+}
+section div{
+    display: inline-block;
+    height: 25%;
+    width: 25%;
+    margin: 40px;
+    padding: 10px;
+}

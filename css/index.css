@@ -1,0 +1,11 @@
+section div{
+    display: inline-block;
+    margin: 1.5%;
+    padding: 1.5%;
+}
+img#h1{
+    display: none;
+}
+img#h2{
+    display: inline-block;
+}
