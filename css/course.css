@@ -1,0 +1,10 @@
+li#course a {
+  color: #ffffff;
+  background-color: #79409c;
+  background-image: linear-gradient( #f700ff, #fff);
+  border-radius: 20px;
+}
+section > div:hover a:hover{
+  background-image: repeating-linear-gradient(#fff, #f700ff);
+  border-radius: 20px;
+}

@@ -1,0 +1,11 @@
+li#about a {
+  color: #ffffff;
+  background-color: #79409c;
+  background-image: linear-gradient( #f700ff, #fff);
+  border-radius: 20px;
+}
+section > div > div{
+  background-color: #fff;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}

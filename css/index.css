@@ -1,0 +1,6 @@
+li#home a {
+  color: #ffffff;
+  background-color: #79409c;
+  background-image: linear-gradient( #f700ff, #fff);
+  border-radius: 20px;
+}

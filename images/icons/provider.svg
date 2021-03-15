@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 128 128" id="svg-3ef5">
+    <polygon points="128 3 17 3 17 24 25 24 25 11 120 11 120 24 111 24 111 32 120 32 120 95 111 95 111 103 128 103">
+
+    </polygon>
+    <path d="m25 24h-25v100h111v-100h-86zm78 92h-95v-63h95v63zm0-71h-95v-13h95v13z">
+</path>
+    <path d="m46 74v21h-21v-21h21m8-8h-37v37h37v-37z">
+
+    </path>
+    <rect x="62" y="66" width="32" height="8">
+
+    </rect>
+    <rect x="62" y="81" width="32" height="8">
+
+</rect>
+    <rect x="62" y="95" width="32" height="8">
+
+</rect>
+</svg>
